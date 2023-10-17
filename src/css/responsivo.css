@@ -44,5 +44,7 @@
 
 	body {
 		padding: 40px;
+		padding: 60px;
+		min-heigt: 90px;
 	}
 }
